@@ -64,6 +64,6 @@ python test_reward_model.py \
 
 ## 🤗 模型权重 (Model Weights)
 
-本项目训练好的奖励模型（包含 LoRA 适配器与 Score Head 权重）已托管至 Hugging Face：
+本项目训练好的奖励模型（包含 LoRA 适配器与 Score Head 权重）已上传至 Hugging Face：
 
 * **模型地址**: [Whale0910/Qwen2_VL_2B_Reward](https://huggingface.co/Whale0910/Qwen2_VL_2B_Reward)
