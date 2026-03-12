@@ -1,0 +1,10 @@
+data/
+allava/
+cc3m/
+multiui/
+diversity/
+output/
+Qwen2_VL_2B_RewardModel/
+
+reward_model_test.log
+test-00000-of-00001.parquet
